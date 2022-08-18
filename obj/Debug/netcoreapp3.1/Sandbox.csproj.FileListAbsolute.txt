@@ -1,0 +1,14 @@
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.exe
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.deps.json
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.json
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.dev.json
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.dll
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.pdb
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csproj.AssemblyReference.cache
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfoInputs.cache
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfo.cs
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csproj.CoreCompileInputs.cache
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.dll
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.pdb
+C:\MyDocuments\Proger\ASP.NET\Sandbox\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.genruntimeconfig.cache
